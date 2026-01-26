@@ -92,14 +92,26 @@ LYF SOS is a **support tool**, not a rescue guarantee.
 
 ## 📂 Repository Structure
 
-'''lyf-sos-android/
-├── app/ # Android application source
-├── docs/ # Security, privacy, threat models
-├── README.md
-├── LICENSE
-├── SECURITY.md
+```text
+lyf-sos-android/
+├── app/
+│   └── src/
+│       ├── permissions/
+│       ├── bluetooth/
+│       └── location/
+├── docs/
+│   ├── threat-model.md
+│   ├── permissions.md
+│   ├── offline-behavior.md
+│   ├── limitations.md
+│   └── privacy.md
 ├── CONTRIBUTING.md
-└── CODE_OF_CONDUCT.md'''
+├── CODE_OF_CONDUCT.md
+├── LICENSE
+├── README.md
+└── SECURITY.md
+```
+
 
 
 Each document exists to clearly explain:
