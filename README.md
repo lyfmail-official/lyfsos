@@ -91,7 +91,7 @@ LYF SOS is a **support tool**, not a rescue guarantee.
 ---
 
 ## 📂 Repository Structure
-
+... 
 lyf-sos-android/
 ├── app/ # Android application source
 ├── docs/ # Security, privacy, threat models
@@ -100,7 +100,7 @@ lyf-sos-android/
 ├── SECURITY.md
 ├── CONTRIBUTING.md
 └── CODE_OF_CONDUCT.md
-
+... 
 
 Each document exists to clearly explain:
 - What the app does?
