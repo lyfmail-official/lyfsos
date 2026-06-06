@@ -183,4 +183,6 @@ Not louder apps.
 Not smarter surveillance.  
 Just calm, honest help when it matters.
 
+**Maintained by [LYF Mail](https://github.com/lyfmail-official)** · 
+Founded by [Ajay Kumar Chaudhary](https://github.com/lyfmail) 
 
