@@ -8,8 +8,8 @@
 [![Android](https://img.shields.io/badge/Android-8.0%2B-brightgreen)](https://lyfsos.lyfmail.com)
 [![Maintained by LYF Mail](https://img.shields.io/badge/Maintained%20by-LYF%20Mail-orange)](https://lyfmail.com)
 
-&gt; **"People deserve emergency tools that respect them. Not louder apps. Not smarter surveillance. Just calm, honest help when it matters."**  
-&gt; A free, open-source, privacy-first emergency mesh network app from [LYF Mail](https://lyfmail.com) — India's digital wellness platform.
+**"People deserve emergency tools that respect them. Not louder apps. Not smarter surveillance. Just calm, honest help when it matters."**  
+A free, open-source, privacy-first emergency mesh network app from [LYF Mail](https://lyfmail.com) — India's digital wellness platform.
 
 ---
 
@@ -232,14 +232,14 @@ Nearby devices automatically detect, decrypt, and relay your signal — extendin
 
 | Attribute | Detail |
 |-----------|--------|
-| **Platform** | Android (Native) |
-| **Language** | Kotlin |
-| **Minimum SDK** | Android 8.0 (API 26) |
-| **Architecture** | Privacy-first, modular, offline-first |
-| **Mesh Protocol** | Bluetooth LE 5.0 + Wi-Fi Direct |
-| **Encryption** | X25519 End-to-End Ephemeral |
-| **Battery Target** | < 5% daily drain in standby |
-| **Status** | Active development |
+| **Platform** | Android (Native). |
+| **Language** | Kotlin. |
+| **Minimum SDK** | Android 8.0 (API 26). |
+| **Architecture** | Privacy-first, modular, offline-first. |
+| **Mesh Protocol** | Bluetooth LE 5.0 + Wi-Fi Direct. |
+| **Encryption** | X25519 End-to-End Ephemeral. |
+| **Battery Target** | < 5% daily drain in standby. |
+| **Status** | Active development. |
 
 ---
 
