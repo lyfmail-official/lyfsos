@@ -179,13 +179,6 @@ lyfsos/
 └── SECURITY.md
 ```
 
-
-
-Each document exists to clearly explain:
-- What the app does?
-- What it does not do?
-- Why certain limits exist?
-
 ---
 
 ## 📄 Documentation
@@ -263,7 +256,7 @@ LYF SOS is one of nine free, open-source privacy tools built by [LYF Mail](https
 
 | Project | Description | Live App | Repository |
 |---------|-------------|----------|------------|
-| **[LYF Mail](https://lyfmail.com)** | Privacy-first newsletters for health, wealth, career & mindfulness | [lyfmail.com](https://lyfmail.com) | `lyfmail` |
+| **[LYF Mail](https://lyfmail.com)** | Privacy-first newsletters for health, wealth, career & mindfulness. | [lyfmail.com](https://lyfmail.com) | `lyfmail` |
 | **[TrustLens](https://trustlens.lyfmail.com)** | Detect misinformation before you share. Privacy-first credibility analysis. | [trustlens.lyfmail.com](https://trustlens.lyfmail.com) | `trustlens` |
 | **[Signals](https://signals.lyfmail.com)** | Privacy-first analytics. Human vs. bot detection without cookies or fingerprinting. | [signals.lyfmail.com](https://signals.lyfmail.com) | `signals` |
 | **[Ebb](https://ebb.lyfmail.com)** | Period tracker with homomorphic encryption. Your data stays encrypted — even from us. | [ebb.lyfmail.com](https://ebb.lyfmail.com) | `ebb` |
